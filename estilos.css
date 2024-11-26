@@ -1,62 +1,41 @@
 /* Temas del segundo período*/
 
-.texto {
-
+.texto{
+   
     font-size: 40px;
     padding-top: 140px;
     text-align: justify;
     color: rgb(244, 237, 237);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
-.principal {
-    display: flex;
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F972777588251664608%2F&psig=AOvVaw0qoby-1qv9Lrs33udRo3Nn&ust=1729435925498000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPixsIHZmokDFQAAAAAdAAAAABAE");
+   
 
 }
-
-body {
-    background-image: url("https://i.pinimg.com/originals/ea/62/aa/ea62aaf0b659e6715937294125fc63fc.png");
-
-
-}
-
-.titulo {
-    font-size: 60px;
-    color: black;
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
-}
-
-.img1 {
-    height: 193px;
-    width: 300px;
-    background-image: url("piedra.jpeg");
-    background-repeat: no-repeat;
-    float: right;
-}
-
-.img2 {
-    height: 500px;
-    width: 500px;
-    background-image: url("medellin.jpeg");
-    background-repeat: no-repeat;
-    float: left;
-}
-
-.imgtec3 {
-    height: 200px;
-    width: 200px;
-    background-image: url("c:\Users\MariaAngelHerreraRio\Downloads\WhatsApp Image 2024-11-25 at 4.48.05 PM.jpeg");
-    background-repeat: no-repeat;
-    float: right;
+.titulo{
+font-size: 60px;
+color: black;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
 .img1{
-    height: 200px;
-    width: 200px;
-    background-image: url(c:\Users\MariaAngelHerreraRio\Downloads\WhatsApp Image 2024-11-25 at 4.48.05 PM.jpeg);
-    background-repeat:no-repeat;
-    float: :right;
+    height: 193px;
+    width: 300px;
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F972777588251664608%2F&psig=AOvVaw3xYHkjDDgYd7l-OVeK1tuA&ust=1729621445945000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDuoJCMoIkDFQAAAAAdAAAAABAE");
+    background-repeat: no-repeat;
+    float: right;
+}
+.img2{
+    height: 500px;
+    width: 500px;
+    background-image: url("");
+    background-repeat: no-repeat;
+    float: left;
 }
