@@ -3,9 +3,9 @@
 .texto {
 
     font-size: 40px;
-    padding-top: 140px;
+    padding-top: 100px;
     text-align: justify;
-    color: rgb(244, 237, 237);
+    color: rgb(10, 0, 0);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -43,20 +43,70 @@ body {
     background-repeat: no-repeat;
     float: left;
 }
-
-.imgtec3 {
-    height: 200px;
-    width: 200px;
-    background-image: url("c:\Users\MariaAngelHerreraRio\Downloads\WhatsApp Image 2024-11-25 at 4.48.05 PM.jpeg");
+.img2 {
+    height: 700px;
+    width: 300px;
+    background-image: url("ovario");
     background-repeat: no-repeat;
-    float: right;
-
+    float: left;
+}.img2 {
+    height: 400px;
+    width: 500px;
+    background-image: url("mariana.jpg.pngccx");
+    background-repeat: no-repeat;
+    float: left;
+}
+.imgmate1 {
+    height: 400px;
+    width: 500px;
+    background-image: url("mate 1.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.imgmate2 {
+    height: 400px;
+    width: 500px;
+    background-image: url("mate2.png");
+    background-repeat: no-repeat;
+    float: left;
 }
 
-.img1{
-    height: 200px;
-    width: 200px;
-    background-image: url(c:\Users\MariaAngelHerreraRio\Downloads\WhatsApp Image 2024-11-25 at 4.48.05 PM.jpeg);
-    background-repeat:no-repeat;
-    float: :right;
+.imgmate3 {
+    height: 400px;
+    width: 500px;
+    background-image: url("mate3.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.imgmate4 {
+    height: 400px;
+    width: 500px;
+    background-image: url("mate4.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.imgmate5 {
+    height: 400px;
+    width: 700px;
+    background-image: url("mate5.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.imgmate6 {
+    height: 400px;
+    width: 700px;
+    background-image: url("mate6.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.imgmate7 {
+    height: 400px;
+    width: 700px;
+    background-image: url("mate7.png");
+    background-repeat: no-repeat;
+    float: left;
 }
